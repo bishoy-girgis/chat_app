@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "449477318746",
+    "project_id": "chat-app-becdc",
+    "storage_bucket": "chat-app-becdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449477318746:android:249fec5b9e41ef5a232063",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449477318746-ibl0c0f0peroeut4k1f8hk9tik1eg1cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCephJwHW2oFd1zeCTAB_0UPC6vvA5IGJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449477318746-ibl0c0f0peroeut4k1f8hk9tik1eg1cq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449477318746-2ila850fls943dqkeakip2jhss8fs1ic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
